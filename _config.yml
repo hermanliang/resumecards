@@ -11,7 +11,7 @@ exclude:
 gems:
   - jekyll-seo-tag
 
-title: "Herman's Resume Card"
+title: "Herman Liang - Resume Card"
 description: "iOS/Android App Developer"
 author: "Herman Liang"
 image: "http://2.gravatar.com/avatar/30d18111643d80b35c6cf11637c00603?s=150"
