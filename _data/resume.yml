@@ -4,7 +4,7 @@ demo: false
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "http://2.gravatar.com/avatar/30d18111643d80b35c6cf11637c00603?s=150"
+photo: "https://2.gravatar.com/avatar/30d18111643d80b35c6cf11637c00603?s=150"
 name: "Herman Liang"
 copy: "iOS/Android App Developer"
 
